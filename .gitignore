@@ -1,5 +1,6 @@
 # PyCharm
 *.idea
 
-# Weights
+# Folders
 /weights
+/examples_outputs
