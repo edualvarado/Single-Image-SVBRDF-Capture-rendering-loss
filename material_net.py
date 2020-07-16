@@ -15,8 +15,8 @@ from lxml import etree
 from random import shuffle
 
 #!!!If running TF v > 2.0 uncomment those lines (also remove the tensorflow import on line 5):!!!
-#import tensorflow.compat.v1 as tf
-#tf.disable_v2_behavior()
+import tensorflow.compat.v1 as tf
+tf.disable_v2_behavior()
 
 
 #Implementation originall based on https://github.com/affinelayer/pix2pix-tensorflow and heavily modified.
