@@ -3,7 +3,10 @@
 
 # Folders
 /weights
-/examples_outputs
-/inputNew
-/outputNew
 /videos
+
+/inputNew
+
+/outputExamples
+/outputNew
+/outputTest
