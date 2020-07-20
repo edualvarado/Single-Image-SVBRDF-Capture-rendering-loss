@@ -3,6 +3,7 @@
 
 # Folders
 /weights
+/saved_weights
 /videos
 /inputNew
 /outputNew
