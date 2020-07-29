@@ -1,7 +1,7 @@
 # PyCharm
 *.idea
 
-# Folders
+# Directories
 /weights
 /saved_weights
 /videos
