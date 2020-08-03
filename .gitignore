@@ -2,8 +2,8 @@
 *.idea
 
 # Directories
-/weights
-/videos
+/Model
+/Videos
 
 
 
